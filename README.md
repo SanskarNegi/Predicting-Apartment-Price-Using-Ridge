@@ -11,3 +11,21 @@ This Repo include following files
 - **buenos-aires-3.csv:** Our third csv file, from where we are getting our data 
 - **buenos-aires-4.csv:** Our fourth csv file, from where we are getting our data 
 - **buenos-aires-5.csv:** Our fifth csv file, from where we are getting our data 
+
+## Getting Started
+### Environment
+* pandas
+* matplotlib
+* seaborn
+* glob
+* category encoder (OneHotEncoder)
+* sklearn
+* ipywidget
+
+### Installing
+* you can download our Predicting Apartment Price Using Ridge Regression.ipynb and all the csv files from the repository.
+* Now you can run this programm on jupyter notebook, any python notebook or any python IDE.
+* Before running programm you have to specify your file path in glob method (file path where you have downloaded csv files).
+```
+files = glob("F:filepath/buenos-aires-*.csv")
+```

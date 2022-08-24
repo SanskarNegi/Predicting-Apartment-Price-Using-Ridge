@@ -1,7 +1,7 @@
 # Predicting-Apartment-Price-Using-Ridge
 Predicting Apartment Price based on size, location and neighbourhood using "ridge regression".
 
-This project is created to build a model that predict the apartment price using different features, Evaluating of all the features in our dataset for use in our model. We are using "Ridge Regression" in our model to predict apartment price.
+This project is created to build a model that predict the apartment price using different features, Performed Data Wrangling and Created Pipeline for model creation. We are using "Ridge Regression" in our model to predict apartment price.
 
 This Repo include following files
 - **README.md:** This file, which contains a summary of files used for this project
